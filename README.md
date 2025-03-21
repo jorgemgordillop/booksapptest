@@ -5,10 +5,10 @@ This repository contains the necessary Docker Compose configuration and Postman 
 
 ---
 
-## 📁 Requisites
-Clone those repositories:
--https://github.com/jorgemgordillop/booksappbe
--https://github.com/jorgemgordillop/booksappfe
+## 📁 Prequisites
+-Clone those repositories:
+- https://github.com/jorgemgordillop/booksappbe
+- https://github.com/jorgemgordillop/booksappfe
 
 
 
