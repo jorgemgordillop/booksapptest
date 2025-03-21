@@ -9,8 +9,6 @@ This repository contains the necessary Docker Compose configuration and Postman 
 
 ```
 project-root/
-├── backend/ (Flask API)
-├── frontend/ (Angular Application)
 ├── docker-compose.yml
 └── Books_API_Postman_Collection.json
 ```
